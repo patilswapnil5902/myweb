@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: myweb
-        image: patilswapnil5902/FinalProjectimage
+        image: patilswapnil5902/finalprojectimage
         ports:
         - containerPort: 8080
