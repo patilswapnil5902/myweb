@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: myweb
-        image: jaggarapup/b780-new-image
+        image: patilswapnil5902/FinalProjectimage
         ports:
         - containerPort: 8080
